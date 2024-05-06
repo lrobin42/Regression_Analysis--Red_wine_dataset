@@ -1,0 +1,12 @@
+Seaborn: version 0.13.0 or higher
+Pandas: 2.1.4 or higher
+Matplotlib: 0.8.2 or higher
+Sqlite3 3.43.2 or higher
+Regex 2023.12.25 or higher
+Numpy 1.26.2 or higher
+Duckdb 0.10.0 or higher
+Statsmodels 0.14.1 or higher
+Scipy.stats 1.12.0 or higher
+Sklearn 1.4.2 or higher
+Skimpy 0.0.14 or higher
+
